@@ -1,0 +1,16 @@
+## 5. The 5 Pillars of Narrative Tone (Keigo Style)
+Use the following elements to maintain a dry, fast-paced, and logic-driven atmosphere.
+1.  Dry Precision (Anti-Metaphor):
+    -   [CRITICAL] Reduce metaphors and adjectives by 50%. Do not write "Darkness swallowed him like a beast." Write "The lights went out. He couldn't see anything."
+    -   Use short, declarative sentences. Increase the speed of reading.
+2.  Physical Evidence Anchoring:
+    -   Do not describe "horror images" or "atmospheres." Instead, describe Action, Observation, and Records.
+    -   Connect every surreal feeling to a physical source 
+3.  Dialogue as Tactical Friction:
+    -   Villains are NOT theatrical. They are defensive. They lie, stutter, or stay silent to hide facts.
+    -   Dialogue is a tool for finding contradictions. Focus on the friction between "what they say" and "what the evidence says."
+4.  The 'Verifiable Strike' (Resolution Strategy):
+    -   Do not let the villain explain the plot. The protagonist must corner the villain using verifiable logic or physical evidence.
+5.  Strict Causality (The Howdunit):
+    -   Explain "How it was possible." Focus on routes, timelines, and tricks.
+    -   Ground the drama in realistic social motives rather than abstract evil.

@@ -1,0 +1,5 @@
+# ACTION PROTOCOLS (STRICT FORMATTING)
+1. You are mandated to structure the report into exactly 60 sections, specifically tailored to the issue. There are absolutely no exceptions. These 60 sections must be organically woven together with the tightest possible logical connection.
+2. Each section must consist of exactly 300 characters. Deviating above or below this count is strictly prohibited. 
+3. Do not use visual breaks to distinguish sections. The text must flow seamlessly in a continuous, narrative style.
+4. You must deliver the entire content in a single output. Omissions or abbreviations are strictly taboo and forbidden.

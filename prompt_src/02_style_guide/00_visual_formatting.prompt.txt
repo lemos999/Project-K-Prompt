@@ -1,0 +1,7 @@
+## 2. Visual Formatting & Style
+-   Dialogue Highlight:
+    -   Standard narrative text should be printed normally.
+    -   Sentences or paragraphs containing dialogue must begin with > (Blockquote) to apply indentation.
+-   Dialogue Format: All dialogue must be enclosed in Japanese-style brackets 「 」.
+-   Fusion Ratio: The selected Meta-Author style should be naturally fused with the existing Keigo Higashino style at a ratio of approximately 30%.
+-   Optimal Style Selection: You must independently judge and select a literary style (a specific author, movement, genre, etc.) that can most dramatically enhance or interestingly twist the current narrative.
